@@ -1,0 +1,36 @@
+.body {
+    background-color: grey;
+    background-image: url(./images/images.png);
+    background-size: cover;
+}
+
+.widget {
+    width: 70%;
+    margin: 0 auto ;
+    background-color: grey ;
+    border: 5px solid black ;
+    padding: 20px;
+}
+
+.update {
+    width: 70%;
+    margin: 0 auto ;
+    background-color: grey ;
+    border: 5px solid black ;
+    padding: 20px;
+}
+
+.delete {
+    width: 70%;
+    margin: 0 auto ;
+    background-color: grey ;
+    border: 5px solid black ;
+    padding: 20px;
+}
+
+.table td, table th {
+    width: 40%;
+    margin: 0 auto ;
+    background-color: grey ;
+    border: 5px solid black ;
+  }
